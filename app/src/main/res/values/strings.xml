@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="tEmail">Email</string>
+    <string name="tPassword">Password</string>
+    <string name="bsignin">Sign-In</string>
+    <string name="bdaftar">Sign-Up</string>
+    <string name="tLogin">LOGIN</string>
+    <string name="regNama">Masukkan Nama</string>
+    <string name="regAlamat">Masukkan Alamat</string>
+    <string name="regGender">Jenis Kelamin</string>
+    <string name="regAgama">Agama</string>
+    <string name="regEmail">Masukkan Email</string>
+    <string name="regPassword">Masukkan Password</string>
+    <string name="regrePassword">Masukkan Password Kembali</string>
+    <string name="lDaftar">Daftar</string>
+    <string name="lbatal">Batal</string>
+    <string name="lihatdata">Lihat Data</string>
+    <string name="lihatnomor">Lihat Nomor</string>
+    <string name="datakontak">Data Kontak</string>
+    <string name="namaitem">Nama Item</string>
+    <string name="detailkontak">Detail Kontak</string>
+    <string name="nama">Nama</string>
+    <string name="notel">Nomor Telepon</string>
+
+</resources>
